@@ -1,5 +1,3 @@
 package learning;
 
-public class Login {
-
-}
+public class Login {}
